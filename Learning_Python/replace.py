@@ -1,3 +1,4 @@
+#code for word replacement
 def replace_word():
 
     str = "Hi guys, i am Sim"
