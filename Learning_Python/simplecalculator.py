@@ -1,4 +1,4 @@
-#a simple calculator using python
+#a simple basic calculator using python
 def add(a, b):
     answer = a + b
     print(f"{str(a)} + {str(b)} = {str(answer)}")
